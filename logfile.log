@@ -1,0 +1,245 @@
+2023-03-17 14:39:32,271 INFO  [Log] Application Opened  
+2023-03-17 14:39:36,234 INFO  [Log] Login Completed 
+2023-03-17 14:39:39,326 INFO  [Log] Logout Completed 
+2023-03-17 14:39:42,451 INFO  [Log] Application Closed  
+2023-03-17 14:39:43,640 INFO  [Log] Application Opened  
+2023-03-17 14:39:47,445 INFO  [Log] Login Completed 
+2023-03-17 14:39:50,490 INFO  [Log] Enter into frame 
+2023-03-17 14:40:11,860 INFO  [Log] Employee Added 
+2023-03-17 14:40:14,887 INFO  [Log] Exit from frame 
+2023-03-17 14:40:17,984 INFO  [Log] Logout Completed 
+2023-03-17 14:40:21,089 INFO  [Log] Application Closed  
+2023-03-17 14:40:22,251 INFO  [Log] Application Opened  
+2023-03-17 14:40:26,180 INFO  [Log] Login Completed 
+2023-03-17 14:40:29,241 INFO  [Log] Enter into frame 
+2023-03-17 14:40:41,121 INFO  [Log] Employee name clicked 
+2023-03-17 14:40:44,570 INFO  [Log] Employee Edited Successfully 
+2023-03-17 14:40:47,593 INFO  [Log] Exit from frame 
+2023-03-17 14:40:50,684 INFO  [Log] Logout Completed 
+2023-03-17 14:40:53,818 INFO  [Log] Application Closed  
+2023-03-17 14:40:54,964 INFO  [Log] Application Opened  
+2023-03-17 14:40:55,966 INFO  [Log] Login Completed 
+2023-03-17 14:40:56,002 INFO  [Log] Enter into frame 
+2023-03-17 14:40:59,777 INFO  [Log] Employee Search Completed 
+2023-03-17 14:43:41,246 INFO  [Log] Application Opened  
+2023-03-17 14:43:45,027 INFO  [Log] Login Completed 
+2023-03-17 14:43:48,109 INFO  [Log] Logout Completed 
+2023-03-17 14:43:51,239 INFO  [Log] Application Closed  
+2023-03-17 14:43:52,390 INFO  [Log] Application Opened  
+2023-03-17 14:43:56,307 INFO  [Log] Login Completed 
+2023-03-17 14:43:59,401 INFO  [Log] Enter into frame 
+2023-03-17 14:44:20,707 INFO  [Log] Employee Added 
+2023-03-17 14:44:23,726 INFO  [Log] Exit from frame 
+2023-03-17 14:44:26,820 INFO  [Log] Logout Completed 
+2023-03-17 14:44:29,930 INFO  [Log] Application Closed  
+2023-03-17 14:44:31,091 INFO  [Log] Application Opened  
+2023-03-17 14:44:35,055 INFO  [Log] Login Completed 
+2023-03-17 14:44:38,143 INFO  [Log] Enter into frame 
+2023-03-17 14:44:50,116 INFO  [Log] Employee name clicked 
+2023-03-17 14:44:53,565 INFO  [Log] Employee Edited Successfully 
+2023-03-17 14:44:56,582 INFO  [Log] Exit from frame 
+2023-03-17 14:44:59,707 INFO  [Log] Logout Completed 
+2023-03-17 14:45:02,831 INFO  [Log] Application Closed  
+2023-03-17 14:45:03,962 INFO  [Log] Application Opened  
+2023-03-17 14:45:04,874 INFO  [Log] Login Completed 
+2023-03-17 14:45:04,912 INFO  [Log] Enter into frame 
+2023-03-17 14:45:08,636 INFO  [Log] Employee Search Completed 
+2023-03-17 14:45:12,389 INFO  [Log] Employee Deleted 
+2023-03-17 14:45:15,412 INFO  [Log] Exit from frame 
+2023-03-17 14:45:15,505 INFO  [Log] Logout Completed 
+2023-03-17 14:45:15,599 INFO  [Log] Application Closed  
+2023-03-20 15:23:13,971 INFO  [Log] Application Opened  
+2023-03-20 15:23:17,879 INFO  [Log] Login Completed 
+2023-03-20 15:23:20,945 INFO  [Log] Logout Completed 
+2023-03-20 15:23:24,066 INFO  [Log] Application Closed  
+2023-03-20 15:23:25,131 INFO  [Log] Application Opened  
+2023-03-20 15:23:28,591 INFO  [Log] Login Completed 
+2023-03-20 15:23:32,725 INFO  [Log] Application Opened  
+2023-03-20 15:23:36,804 INFO  [Log] Application Opened  
+2023-03-20 15:23:37,623 INFO  [Log] Login Completed 
+2023-03-20 15:23:37,689 INFO  [Log] Enter into frame 
+2023-03-20 15:29:42,371 INFO  [Log] Application Opened  
+2023-03-20 15:29:46,407 INFO  [Log] Login Completed 
+2023-03-20 15:29:49,508 INFO  [Log] Logout Completed 
+2023-03-20 15:29:52,648 INFO  [Log] Application Closed  
+2023-03-20 15:29:53,812 INFO  [Log] Application Opened  
+2023-03-20 15:29:57,778 INFO  [Log] Login Completed 
+2023-03-20 15:30:00,812 INFO  [Log] Enter into frame 
+2023-03-20 15:30:22,506 INFO  [Log] Employee Added 
+2023-03-20 15:30:25,518 INFO  [Log] Exit from frame 
+2023-03-20 15:30:28,645 INFO  [Log] Logout Completed 
+2023-03-20 15:30:31,751 INFO  [Log] Application Closed  
+2023-03-20 15:30:32,855 INFO  [Log] Application Opened  
+2023-03-20 15:30:36,738 INFO  [Log] Login Completed 
+2023-03-20 15:30:39,820 INFO  [Log] Enter into frame 
+2023-03-20 15:30:51,687 INFO  [Log] Employee name clicked 
+2023-03-20 15:30:55,163 INFO  [Log] Employee Edited Successfully 
+2023-03-20 15:30:58,179 INFO  [Log] Exit from frame 
+2023-03-20 15:31:01,237 INFO  [Log] Logout Completed 
+2023-03-20 15:31:04,386 INFO  [Log] Application Closed  
+2023-03-20 15:31:05,439 INFO  [Log] Application Opened  
+2023-03-20 15:31:06,229 INFO  [Log] Login Completed 
+2023-03-20 15:31:06,254 INFO  [Log] Enter into frame 
+2023-03-20 15:31:09,987 INFO  [Log] Employee Search Completed 
+2023-03-20 15:31:13,646 INFO  [Log] Employee Deleted 
+2023-03-20 15:31:16,649 INFO  [Log] Exit from frame 
+2023-03-20 15:31:16,738 INFO  [Log] Logout Completed 
+2023-03-20 15:31:16,815 INFO  [Log] Application Closed  
+2023-03-20 16:43:04,228 INFO  [Log] Application Opened  
+2023-03-20 16:43:11,744 INFO  [Log] Login Completed 
+2023-03-20 16:43:14,916 INFO  [Log] Logout Completed 
+2023-03-20 16:43:18,075 INFO  [Log] Application Closed  
+2023-03-20 16:43:21,033 INFO  [Log] Application Opened  
+2023-03-20 16:43:26,117 INFO  [Log] Login Completed 
+2023-03-20 16:43:29,208 INFO  [Log] Enter into frame 
+2023-03-20 16:43:53,166 INFO  [Log] Employee Added 
+2023-03-20 16:43:56,178 INFO  [Log] Exit from frame 
+2023-03-20 16:43:59,485 INFO  [Log] Logout Completed 
+2023-03-20 16:44:02,571 INFO  [Log] Application Closed  
+2023-03-20 16:44:07,900 INFO  [Log] Application Opened  
+2023-03-20 16:44:12,835 INFO  [Log] Login Completed 
+2023-03-20 16:44:15,917 INFO  [Log] Enter into frame 
+2023-03-20 16:44:28,189 INFO  [Log] Employee name clicked 
+2023-03-20 16:44:32,183 INFO  [Log] Employee Edited Successfully 
+2023-03-20 16:44:35,196 INFO  [Log] Exit from frame 
+2023-03-20 16:44:38,386 INFO  [Log] Logout Completed 
+2023-03-20 16:44:41,514 INFO  [Log] Application Closed  
+2023-03-20 16:44:43,007 INFO  [Log] Application Opened  
+2023-03-20 16:44:45,420 INFO  [Log] Login Completed 
+2023-03-20 16:44:45,527 INFO  [Log] Enter into frame 
+2023-03-20 16:44:49,252 INFO  [Log] Employee Search Completed 
+2023-03-20 16:55:04,201 INFO  [Log] Application Opened  
+2023-03-20 16:55:09,279 INFO  [Log] Login Completed 
+2023-03-20 16:55:12,383 INFO  [Log] Logout Completed 
+2023-03-20 16:55:15,559 INFO  [Log] Application Closed  
+2023-03-20 16:55:17,064 INFO  [Log] Application Opened  
+2023-03-20 16:55:21,240 INFO  [Log] Login Completed 
+2023-03-20 16:55:24,313 INFO  [Log] Enter into frame 
+2023-03-20 16:55:46,678 INFO  [Log] Employee Added 
+2023-03-20 16:55:49,704 INFO  [Log] Exit from frame 
+2023-03-20 16:55:52,854 INFO  [Log] Logout Completed 
+2023-03-20 16:55:55,981 INFO  [Log] Application Closed  
+2023-03-20 16:55:57,624 INFO  [Log] Application Opened  
+2023-03-20 16:56:02,115 INFO  [Log] Login Completed 
+2023-03-20 16:56:05,193 INFO  [Log] Enter into frame 
+2023-03-20 16:56:17,613 INFO  [Log] Employee name clicked 
+2023-03-20 16:56:21,924 INFO  [Log] Employee Edited Successfully 
+2023-03-20 16:56:24,929 INFO  [Log] Exit from frame 
+2023-03-20 16:56:28,132 INFO  [Log] Logout Completed 
+2023-03-20 16:56:31,276 INFO  [Log] Application Closed  
+2023-03-20 16:56:32,650 INFO  [Log] Application Opened  
+2023-03-20 16:56:34,016 INFO  [Log] Login Completed 
+2023-03-20 16:56:34,086 INFO  [Log] Enter into frame 
+2023-03-20 16:56:38,045 INFO  [Log] Employee Search Completed 
+2023-03-20 16:56:42,340 INFO  [Log] Employee Deleted 
+2023-03-20 16:56:45,362 INFO  [Log] Exit from frame 
+2023-03-20 16:56:45,489 INFO  [Log] Logout Completed 
+2023-03-20 16:56:45,577 INFO  [Log] Application Closed  
+2023-03-20 17:06:38,348 INFO  [Log] Application Opened  
+2023-03-20 17:06:43,916 INFO  [Log] Login Completed 
+2023-03-20 17:06:47,076 INFO  [Log] Logout Completed 
+2023-03-20 17:06:50,248 INFO  [Log] Application Closed  
+2023-03-20 17:06:52,528 INFO  [Log] Application Opened  
+2023-03-20 17:06:56,832 INFO  [Log] Login Completed 
+2023-03-20 17:06:59,934 INFO  [Log] Enter into frame 
+2023-03-20 17:07:24,781 INFO  [Log] Employee Added 
+2023-03-20 17:07:27,811 INFO  [Log] Exit from frame 
+2023-03-20 17:07:30,949 INFO  [Log] Logout Completed 
+2023-03-20 17:07:34,127 INFO  [Log] Application Closed  
+2023-03-20 17:07:36,084 INFO  [Log] Application Opened  
+2023-03-20 17:07:41,573 INFO  [Log] Login Completed 
+2023-03-20 17:07:44,689 INFO  [Log] Enter into frame 
+2023-03-20 17:07:57,900 INFO  [Log] Employee name clicked 
+2023-03-20 17:08:01,701 INFO  [Log] Employee Edited Successfully 
+2023-03-20 17:08:04,716 INFO  [Log] Exit from frame 
+2023-03-20 17:08:07,894 INFO  [Log] Logout Completed 
+2023-03-20 17:08:11,054 INFO  [Log] Application Closed  
+2023-03-20 17:08:12,455 INFO  [Log] Application Opened  
+2023-03-20 17:08:13,441 INFO  [Log] Login Completed 
+2023-03-20 17:08:13,503 INFO  [Log] Enter into frame 
+2023-03-20 17:08:17,496 INFO  [Log] Employee Search Completed 
+2023-03-20 17:08:21,648 INFO  [Log] Employee Deleted 
+2023-03-20 17:08:24,663 INFO  [Log] Exit from frame 
+2023-03-20 17:08:24,810 INFO  [Log] Logout Completed 
+2023-03-20 17:08:24,955 INFO  [Log] Application Closed  
+2023-03-20 17:08:53,110 INFO  [Log] Application Opened  
+2023-03-20 17:08:57,198 INFO  [Log] Login Completed 
+2023-03-20 17:09:00,364 INFO  [Log] Logout Completed 
+2023-03-20 17:09:03,496 INFO  [Log] Application Closed  
+2023-03-20 17:09:06,086 INFO  [Log] Application Opened  
+2023-03-20 17:09:11,282 INFO  [Log] Login Completed 
+2023-03-20 17:09:14,398 INFO  [Log] Enter into frame 
+2023-03-20 17:09:37,248 INFO  [Log] Employee Added 
+2023-03-20 17:09:40,264 INFO  [Log] Exit from frame 
+2023-03-20 17:09:43,392 INFO  [Log] Logout Completed 
+2023-03-20 17:09:46,514 INFO  [Log] Application Closed  
+2023-03-20 17:09:48,234 INFO  [Log] Application Opened  
+2023-03-20 17:09:53,897 INFO  [Log] Login Completed 
+2023-03-20 17:09:56,969 INFO  [Log] Enter into frame 
+2023-03-20 17:10:09,725 INFO  [Log] Employee name clicked 
+2023-03-20 17:10:14,016 INFO  [Log] Employee Edited Successfully 
+2023-03-20 17:10:17,042 INFO  [Log] Exit from frame 
+2023-03-20 17:10:20,235 INFO  [Log] Logout Completed 
+2023-03-20 17:10:23,361 INFO  [Log] Application Closed  
+2023-03-20 17:10:24,971 INFO  [Log] Application Opened  
+2023-03-20 17:10:26,330 INFO  [Log] Login Completed 
+2023-03-20 17:10:26,386 INFO  [Log] Enter into frame 
+2023-03-20 17:10:30,205 INFO  [Log] Employee Search Completed 
+2023-03-20 17:10:34,779 INFO  [Log] Employee Deleted 
+2023-03-20 17:10:37,796 INFO  [Log] Exit from frame 
+2023-03-20 17:10:37,909 INFO  [Log] Logout Completed 
+2023-03-20 17:10:37,991 INFO  [Log] Application Closed  
+2023-03-20 21:58:50,091 INFO  [Log] Application Opened  
+2023-03-20 21:58:54,315 INFO  [Log] Login Completed 
+2023-03-20 21:58:57,438 INFO  [Log] Logout Completed 
+2023-03-20 21:59:00,550 INFO  [Log] Application Closed  
+2023-03-20 21:59:02,177 INFO  [Log] Application Opened  
+2023-03-20 21:59:06,431 INFO  [Log] Login Completed 
+2023-03-20 21:59:09,551 INFO  [Log] Enter into frame 
+2023-03-20 21:59:31,469 INFO  [Log] Employee Added 
+2023-03-20 21:59:34,491 INFO  [Log] Exit from frame 
+2023-03-20 21:59:37,633 INFO  [Log] Logout Completed 
+2023-03-20 21:59:40,762 INFO  [Log] Application Closed  
+2023-03-20 21:59:42,778 INFO  [Log] Application Opened  
+2023-03-20 21:59:46,925 INFO  [Log] Login Completed 
+2023-03-20 21:59:50,001 INFO  [Log] Enter into frame 
+2023-03-20 22:00:02,075 INFO  [Log] Employee name clicked 
+2023-03-20 22:00:05,900 INFO  [Log] Employee Edited Successfully 
+2023-03-20 22:00:08,908 INFO  [Log] Exit from frame 
+2023-03-20 22:00:12,053 INFO  [Log] Logout Completed 
+2023-03-20 22:00:15,165 INFO  [Log] Application Closed  
+2023-03-20 22:00:16,612 INFO  [Log] Application Opened  
+2023-03-20 22:00:17,770 INFO  [Log] Login Completed 
+2023-03-20 22:00:17,851 INFO  [Log] Enter into frame 
+2023-03-20 22:00:21,730 INFO  [Log] Employee Search Completed 
+2023-03-20 22:00:25,674 INFO  [Log] Employee Deleted 
+2023-03-20 22:00:28,675 INFO  [Log] Exit from frame 
+2023-03-20 22:00:28,786 INFO  [Log] Logout Completed 
+2023-03-20 22:00:28,843 INFO  [Log] Application Closed  
+2023-03-20 22:04:33,097 INFO  [Log] Application Opened  
+2023-03-20 22:04:37,343 INFO  [Log] Login Completed 
+2023-03-20 22:04:40,414 INFO  [Log] Logout Completed 
+2023-03-20 22:04:43,501 INFO  [Log] Application Closed  
+2023-03-20 22:04:44,773 INFO  [Log] Application Opened  
+2023-03-20 22:04:48,616 INFO  [Log] Login Completed 
+2023-03-20 22:04:51,685 INFO  [Log] Enter into frame 
+2023-03-20 22:05:13,112 INFO  [Log] Employee Added 
+2023-03-20 22:05:16,114 INFO  [Log] Exit from frame 
+2023-03-20 22:05:19,221 INFO  [Log] Logout Completed 
+2023-03-20 22:05:22,301 INFO  [Log] Application Closed  
+2023-03-20 22:05:23,493 INFO  [Log] Application Opened  
+2023-03-20 22:05:27,465 INFO  [Log] Login Completed 
+2023-03-20 22:05:30,554 INFO  [Log] Enter into frame 
+2023-03-20 22:05:42,413 INFO  [Log] Employee name clicked 
+2023-03-20 22:05:45,828 INFO  [Log] Employee Edited Successfully 
+2023-03-20 22:05:48,830 INFO  [Log] Exit from frame 
+2023-03-20 22:05:51,929 INFO  [Log] Logout Completed 
+2023-03-20 22:05:55,014 INFO  [Log] Application Closed  
+2023-03-20 22:05:56,232 INFO  [Log] Application Opened  
+2023-03-20 22:05:57,251 INFO  [Log] Login Completed 
+2023-03-20 22:05:57,288 INFO  [Log] Enter into frame 
+2023-03-20 22:06:01,107 INFO  [Log] Employee Search Completed 
+2023-03-20 22:06:04,930 INFO  [Log] Employee Deleted 
+2023-03-20 22:06:07,932 INFO  [Log] Exit from frame 
+2023-03-20 22:06:08,027 INFO  [Log] Logout Completed 
+2023-03-20 22:06:08,123 INFO  [Log] Application Closed  
